@@ -7,11 +7,18 @@
 
 <h2> :floppy_disk: Data Description</h2>
 The Data is hosted by the World bank on Global education.</br>
-The DataSet has over 3,500 internationally comparable indicators that describe education access, progression, completion, literacy, teachers, facilities, population, and expenditure </br>
+The DataSet has over 3,500 internationally comparable indicators that describe education access, progression, completion, literacy, teachers, facilities, population, and expenditure. </br>
 
 
-The quality of education can be measured by the OECD Program for International Student Assessment (or PISA) as well as equality of education. </br>
-The data is stored from 1970 to the present also few predicted values are kept in the dataset up to 2100 and more the 200 countries have participated in it
+<p>The quality of education can be measured by the OECD Program for International Student Assessment (or PISA) as well as equality of education. </br>
+The data is stored from 1970 to the present also few predicted values are kept in the dataset up to 2100 and more the 200 countries have participated in it.
+</p>
+
+![missing_value](https://user-images.githubusercontent.com/43104489/121783871-cd1f1580-cbce-11eb-8325-3cb40e14d821.png)
+<p>
+This Graph clearly shows that the data is full of null values so we will only consider those columns which have the least number of null values, thus we selected years from 2000 to 2015 as our observable unit.
+</p>
+
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
