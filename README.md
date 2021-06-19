@@ -53,5 +53,5 @@ contains indicators and data sources for certain countries</p>
 
 <p>4. Relationship between internet users and literacy rate.</p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
